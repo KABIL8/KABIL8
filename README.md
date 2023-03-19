@@ -1,6 +1,6 @@
 Hi there
 My self S.KABIL and my project is about SRS DOCUMENT FOR TO-DO LIST.
-Here is a brief discription about our project.To-Do List project 
+Here is a brief discription about my project.To-Do List project 
 is an application specially built to keep track of errands or tasks 
 that need to be done. This application will be like a 
 task keeper where the user would be able to enter the 
